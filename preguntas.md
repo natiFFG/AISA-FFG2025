@@ -20,6 +20,8 @@
 ## Sobre las Donaciones
 10. ¿Qué plataformas de pago utilizan actualmente, y están abiertas a integraciones con nuevas plataformas?
 11. ¿Tienen algún sistema para emitir recibos de donación? ¿Hay algun recaudo a nivel contable que haya que tener?
+12. ¿Que implica cambiar los datos de donacion? (Listar todos los posibles datos necesarios)
+13. ¿Que datos se necesitan para una donacion "espontanea"?
 
 ## Sobre la Gestión del Contenido
 12. ¿Quién será responsable de mantener las secciones de noticias y programas? ¿Qué tan frecuente esperan actualizar esta información?
